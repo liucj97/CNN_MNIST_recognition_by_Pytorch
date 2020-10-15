@@ -29,7 +29,7 @@
 └── └── raw
 ```
 ```
-2.直接运行cnn_mnist_pytorch.py即可获得已训练模型的测试结果 <br>
+2.直接运行cnn_mnist_pytorch.py即可获得已训练模型的测试结果
 注:若无GPU，请将use_gpu设为0
 ```
 ```
