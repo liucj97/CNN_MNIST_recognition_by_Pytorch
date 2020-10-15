@@ -1,0 +1,2 @@
+# CNN_MNIST_recognition_by_Pytorch-
+基于Pytorch的卷积神经网络MNIST手写数字识别 适用于Pytorch与神经网络入门学习
