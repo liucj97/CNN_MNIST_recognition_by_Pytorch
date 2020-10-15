@@ -24,7 +24,7 @@
 ├── cnn_mnist_pytorch.py   #主程序 
 ├── modelpara.pth          #已训练网络参数模型 
 ├── README.txt             #使用说明 
-├── MNIST                  #MNIST数据集 
+├── MNIST                  #MNIST数据集 需解压 
 │   ├── processed
 └── └── raw
 ```
